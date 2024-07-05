@@ -1,6 +1,8 @@
 # logistf
 Firth's (Firth) Bias-Reduced Logistic Regression Use logistf With (In) R Software
 
+https://www.youtube.com/watch?v=LxRWzeWXmZw
+
 Olah Data Semarang
 
 WA : +6285227746673 (085227746673)
